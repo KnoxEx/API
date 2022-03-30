@@ -1,6 +1,6 @@
-#  Exchange-official-API-docs
+#  KnoxEx Official API docs [WIP] 
 
-#### Official Documentation for the Exchange APIs and Streams([简体中文版文档](https://github.com/exchange-doc/api/blob/master/api/zh_cn/api_doc_cn.md))
+#### Official Documentation for the KnoxEx APIs and Streams
 - [Introduction](#Introduction)
 - [Getting Started](#startToUse)
 - [Encrypted Verification of API](#a1)
